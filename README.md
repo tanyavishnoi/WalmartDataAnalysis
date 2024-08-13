@@ -1,4 +1,4 @@
-Walmart_DataAnalysis_SQL_REPORT
+## Walmart_DataAnalysis_SQL_REPORT
 
 Data Analysis using SQL for Walmart sales data
 
